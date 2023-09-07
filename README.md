@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 'Faizan' @Refizar08
-- 👉 About me - Computer science engineering student with experience in C++, Python, DBMS, Excel, and AWS. 
-- 📌Passionate about gaming, esports, web development, AI, and web3.
-- 🌱 I’m currently learning Web Development.
+- 👉 About me - Computer science graduate with experience in C++, Python, DBMS, Excel, and AWS. 
+- 📌 Passionate about gaming, esports, web development, AI, and web3.
+- 🌱 I’m currently learning Web Development and FiveM Development.
 - 💞️ Always seeking to learn new technologies and open to contributing to projects.
 - 📫 How to reach me Connect with me on GitHub or LinkedIn at https://www.linkedin.com/in/mfk08/
 
